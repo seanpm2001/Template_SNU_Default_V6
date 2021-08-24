@@ -9,7 +9,7 @@
 
 ![SNU Logo: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/SNU_blue_and_gold_legacy_icon.png)
 
-## [Seanpm2001](https://github.com/seanpm2001/) / [<organizationName>](<organizationName>), Et; Al.
+## [Seanpm2001](https://github.com/seanpm2001/) / [SNU Development](https://github.com/snu-development/) / [<organizationName>](<organizationName>), Et; Al.
 
 ### Top
 
@@ -54,43 +54,41 @@ Translations are done with Google Translate due to limited or no support for the
 
 [04.0 - History](#History)
 
-> [04.1 - Pre-history](#Pre-history)
+[05.0 - Copying](#Copying)
 
-> [04.2 - Alpha History](#Alpha-history)
+[06.0 - Credits](#Credits)
 
-> [04.3 - Beta History](#Beta-history)
+[07.0 - Installation](#Installation)
 
-> [04.4 - Modern History](#Modern-history)
+[08.0 - Version history](#Version-history)
 
-[05.0 - Version history](#Version-history)
+[09.0 - Software status](#Software-status)
 
-[06.0 - Software status](#Software-status)
+[10.0 - Sponsor info](#Sponsor-info)
 
-[07.0 - Sponsor info](#Sponsor-info)
+[11.0 - Contributers](#Contributers)
 
-[08.0 - Contributers](#Contributers)
+[12.0 - Issues](#Issues)
 
-[09.0 - Issues](#Issues)
+> [12.1 - Current issues](#Current-issues)
 
-> [09.1 - Current issues](#Current-issues)
+> [12.2 - Past issues](#Past-issues)
 
-> [09.2 - Past issues](#Past-issues)
+> [12.3 - Past pull requests](#Past-pull-requests)
 
-> [09.3 - Past pull requests](#Past-pull-requests)
+> [12.4 - Active pull requests](#Active-pull-requests)
 
-> [09.4 - Active pull requests](#Active-pull-requests)
+[13.0 - Resources](#Resources)
 
-[10.0 - Resources](#Resources)
+[14.0 - Contributing](#Contributing)
 
-[11.0 - Contributing](#Contributing)
+[15.0 - About README](#About-README)
 
-[12.0 - About README](#About-README)
+[16.0 - README Version history](#README-version-history)
 
-[13.0 - README Version history](#README-version-history)
+[17.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [14.9 - End of file](#EOF)
+> [17.9 - End of file](#EOF)
 
 ***
 
@@ -107,15 +105,59 @@ See above. <extendedRepoDescription>
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki/)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
 ***
 
+## History
+
+Write about this projects history here.
+
+### Pre-history
+
+No pre-history to show for this project.
+
+### Alpha history
+
+No Alpha history to show for this project.
+
+### Beta history
+
+No Beta history to show for this project.
+
+### Modern history
+
+No Modern history to show for this project.
+
+***
+
+## Copying
+
+View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
+
+Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+
+***
+
+## Credits
+
+View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+
+***
+
+## Installation
+
+View the installation instructions file for this project [here](/INSTALL)
+
+Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
+
+***
+
 ## Sponsor info
 
-![SponsorButton.png](SponsorButton.png)
+![SponsorButton.png](/SponsorButton.png)
 
 You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
@@ -153,7 +195,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
 
 > * 2. No other contributers.
 
@@ -223,7 +265,7 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
 
 [Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions/)
 
@@ -243,9 +285,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `0.1.5 (Monday, August 23rd 2021 at 4:29 pm)`
+**File version:** `0.1.6 (Monday, August 23rd 2021 at 5:29 pm)`
 
-**Line count (including blank lines and compiler line):** `0,333`
+**Line count (including blank lines and compiler line):** `0,401`
 
 ***
 
@@ -302,7 +344,33 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 > * Updated the file history section
 
 > * Updated the footer
- 
+
+**ITERATION 6**
+
+> * Updated the title section
+
+> * Fixed and update template links
+
+> * Updated the index
+
+> * Added the copying section
+
+> * Added the credits section
+
+> * Added the installation section
+
+> * Updated the resources section
+
+> * Updated the contributors section
+
+> * Added the technical notes section
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
+
 > * No other changes in version 0.1
 
 Version 1 (Coming soon)
@@ -325,7 +393,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com/) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
 
 ### EOF
 
